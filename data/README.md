@@ -18,7 +18,7 @@ Answers as to the reason for testing for the sampling event vets were answering 
 ### Opinions on testing
 Likert scale answers to the scenarios provided for using strangles serology alongside open text answers which were use for thematic analysis. 
 
-####Shared fields:
+## Shared fields:
 - EIDSID: anonymised ID given to respondents answers for tracking across all analyses
 - vetpracticeID: anonymised ID given to the vet practice that the respondent was based at
 - LabID_Coded: anonymised ID of the lab sample ID for repository purposes. The original Lab Id was used for LIMS management and result tracking in the original analyses
