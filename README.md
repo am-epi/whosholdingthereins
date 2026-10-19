@@ -1,7 +1,7 @@
 # Data for the manuscript: Who is holding the reins? Evaluating diagnostic drivers and veterinary opinions on Streptococcus equi testing in horses
 
 ## Referencing this dataset
-Currently in preparation for submission
+Currently in preparation for submission. If using this dataset please reference with the following: DOI: 10.5281/zenodo.23471903
 
 ## R Code
 The quantitative analyses for this manuscript were performed using R. The code used is available in numerous R files in the 'code' folder. 
