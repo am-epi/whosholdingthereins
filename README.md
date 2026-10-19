@@ -4,7 +4,7 @@
 Currently in preparation for submission
 
 ## R Code
-The quantitative analyses for this manuscript were performed using R. The code used is available in numerous R files in the 'code' folder. Links to the csv dataset used are included in the code as well as the required libraries.
+The quantitative analyses for this manuscript were performed using R. The code used is available in numerous R files in the 'code' folder. 
 
 ## Datasets
 The datasets used for analysis in this manuscript are available in the 'data' folder. 
